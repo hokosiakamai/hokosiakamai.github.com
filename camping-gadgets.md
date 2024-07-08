@@ -26,7 +26,7 @@ Overall, the solar shower is a fantastic addition to your camping gear. It combi
 ---
 
 ## 2. Camp Chair with Ottoman: Ultimate Relaxation After a Day of Adventure
-!()[https://m.media-amazon.com/images/I/61P1XfFzmfL._AC_SL1400_.jpg]
+![](https://m.media-amazon.com/images/I/61P1XfFzmfL._AC_SL1400_.jpg)
 
 ### Sit Back and Relax with Comfort and Style
 
