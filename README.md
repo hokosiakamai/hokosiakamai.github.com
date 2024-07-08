@@ -31,3 +31,4 @@ I’m always excited to connect with fellow developers and tech enthusiasts. Whe
 Thank you for stopping by, and happy coding! 🐍
 
 # [hokosiakamai.github.io](https://medium.com/@hokosia)
+- [Camping Gadgets](/camping-gadget)
