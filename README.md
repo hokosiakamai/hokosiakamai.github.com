@@ -1,8 +1,16 @@
 👋 Welcome to Hokosia's GitHub profile!
+<div id="ad-container" style="border: none; height: 280px; width: 728px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;" tabindex="0" title="Advertisement" aria-label="Advertisement">
+    <iframe id="ad-iframe" style="left: 0; position: absolute; top: 0; border: 0; width: 728px; height: 280px;" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6365855941219725&amp;output=html&amp;adk=2062069824&amp;adf=3025194257&amp;lmt=1705043566&amp;w=600&amp;rafmt=11&amp;format=728x280&amp;url=https://y8.com/&amp;host=ca-host-pub-6129580795478709&amp;game_category=sports,action,adventure" name="ad-iframe" width="728" height="280" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="a!2" data-load-complete="true"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span></iframe>
+</div>
+
 
 I'm Hokosia, a technology enthusiast and software developer with a deep passion for Python programming. My GitHub repository is a reflection of my journey in the tech world, where I explore, experiment, and contribute to the vibrant community of developers. Whether you're a seasoned coder or just starting out, you'll find something intriguing here.
 
 #### My Journey in Python
+<div id="ad-container" style="border: none; max-width: 728px; width: 100%; margin: 0 auto; position: relative; visibility: visible; background-color: transparent; overflow: hidden;">
+ <iframe data-google-container-id="a!2" data-load-complete="true" frameborder="0" height="90" id="ad-iframe" marginheight="0" marginwidth="0" name="ad-iframe" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7048756265510803&amp;output=html&amp;adk=2062069824&amp;adf=3025194257&amp;lmt=1705043566&amp;w=728&amp;rafmt=9&amp;format=728x90&amp;url=https://y8.com/&amp;host=ca-host-pub-6129580795478709&amp;" style="border: 0; width: 100%;"></iframe>
+</div>
+
 
 From my first “Hello, World!” to developing complex algorithms, Python has been my language of choice. Its simplicity and versatility have allowed me to build a diverse range of projects, from web applications and data analysis tools to automation scripts and machine learning models. Python’s extensive libraries and community support make it an ideal platform for continuous learning and innovation.
 
