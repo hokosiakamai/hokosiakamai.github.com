@@ -5,6 +5,7 @@ Have you ever dreamed of camping with all the comforts of home? Imagine taking a
 ---
 
 ## 1. Solar Shower: Clean and Fresh Anywhere
+
 ![](https://i1.wp.com/m.media-amazon.com/images/I/81ChSAz-iZL._AC_UF1000,1000_QL80_.jpg)
 
 ### Enjoy a Warm Shower in the Wilderness
@@ -26,6 +27,7 @@ Overall, the solar shower is a fantastic addition to your camping gear. It combi
 ---
 
 ## 2. Camp Chair with Ottoman: Ultimate Relaxation After a Day of Adventure
+
 ![](https://m.media-amazon.com/images/I/61P1XfFzmfL._AC_SL1400_.jpg)
 
 ### Sit Back and Relax with Comfort and Style
