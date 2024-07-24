@@ -1,6 +1,10 @@
 👋 Welcome to Hokosia's GitHub profile!
 
-
+- [https://www.youtube.com/channel/UCKPu60n16CXHx_U7cxiLOKA](https://www.youtube.com/channel/UCKPu60n16CXHx_U7cxiLOKA)
+- [https://www.quora.com/profile/Hokosia-Kamai-1](https://www.quora.com/profile/Hokosia-Kamai-1)
+- [https://www.youtube.com/channel/UCKPu60n16CXHx_U7cxiLOKA](https://www.youtube.com/channel/UCKPu60n16CXHx_U7cxiLOKA)
+- [https://x.com/hokosia22](https://x.com/hokosia22)
+- [https://www.pinterest.com/hokosiakamai/](https://www.pinterest.com/hokosiakamai/)
 
 I'm Hokosia, a technology enthusiast and software developer with a deep passion for Python programming. My GitHub repository is a reflection of my journey in the tech world, where I explore, experiment, and contribute to the vibrant community of developers. Whether you're a seasoned coder or just starting out, you'll find something intriguing here.
 
